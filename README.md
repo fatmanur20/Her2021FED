@@ -37,6 +37,7 @@ Dit zou ik graag willen bespreken met Danny tijdens de les, maar ik denk respons
 
 ### Je opdracht:
 link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  (Dit zou ik ook graag nog even met Danny willen bespreken tijdens de les, maar:) https://a-project.co/ dit is een portfolio website, het zou mij leuk lijken om ipv de projecten die op de website staan, mijn eigen projecten toe te voegen.
 
 #### Screenshot(s) van de eerste pagina (small screen):
 hier de naam van de pagina
