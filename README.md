@@ -36,16 +36,20 @@ Dit zou ik graag willen bespreken met Danny tijdens de les, maar ik denk respons
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-  (Dit zou ik ook graag nog even met Danny willen bespreken tijdens de les, maar:) https://a-project.co/ dit is een portfolio website, het zou mij leuk lijken om ipv de projecten die op de website staan, mijn eigen projecten toe te voegen.
+https://www.apple.com/
 
 #### Screenshot(s) van de eerste pagina (small screen):
-hier de naam van de pagina
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Home pagina
+
+<img src="images/homepagina1.png" width="375px" alt="homepaginadeel1">
+
+Als je verder scrollt:
+
+<img src="images/homepagina2.png" width="375px" alt="homepaginadeel2">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Support pagina
+<img src="images/supportpagina.jpg" width="375px" alt="supportpagina">
 
 </details>
 
